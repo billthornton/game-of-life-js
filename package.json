@@ -1,0 +1,23 @@
+{
+  "name": "game-of-life-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevebakh/game-of-life-js.git"
+  },
+  "author": "github.com/stevebakh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevebakh/game-of-life-js/issues"
+  },
+  "homepage": "https://github.com/stevebakh/game-of-life-js#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "jasmine": "^2.5.3"
+  }
+}
